@@ -1,7 +1,7 @@
 # 网站配置 - 把下面的占位符改成你自己的
 title: "我的AI工具评测站"
 description: "Hands-on reviews and guides of AI productivity tools."
-url: "https://你的用户名.github.io"   # 改成你的实际网址
+url: "https://elora-luo.github.io"   
 theme: minima
 plugins:
   - jekyll-sitemap
